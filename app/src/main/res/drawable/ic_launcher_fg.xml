@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- корпус микросхемы -->
+    <path android:fillColor="#FFFFFF" android:pathData="M36,34h36a4,4 0,0 1,4 4v32a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-32a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#1E5AA8" android:pathData="M40,40h28v28h-28z" />
+    <!-- ножки -->
+    <path android:fillColor="#FFFFFF" android:pathData="M40,26h4v8h-4zM48,26h4v8h-4zM56,26h4v8h-4zM64,26h4v8h-4zM40,74h4v8h-4zM48,74h4v8h-4zM56,74h4v8h-4zM64,74h4v8h-4z" />
+    <!-- молния -->
+    <path android:fillColor="#FFD54F" android:pathData="M57,43l-10,13h6l-3,9l10,-13h-6z" />
+</vector>

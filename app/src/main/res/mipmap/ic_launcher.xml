@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- иконка для Android 7.x (на 8+ используется adaptive icon из mipmap-anydpi-v26) -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/ic_bg" />
+    <item android:drawable="@drawable/ic_launcher_fg" />
+</layer-list>
